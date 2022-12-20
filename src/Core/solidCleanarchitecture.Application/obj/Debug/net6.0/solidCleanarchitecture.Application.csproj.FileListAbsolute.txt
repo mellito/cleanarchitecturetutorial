@@ -1,0 +1,15 @@
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.csproj.AssemblyReference.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.AssemblyInfoInputs.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.AssemblyInfo.cs
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.csproj.CoreCompileInputs.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\bin\Debug\net6.0\solidCleanarchitecture.Application.deps.json
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\bin\Debug\net6.0\solidCleanarchitecture.Application.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\bin\Debug\net6.0\solidCleanarchitecture.Application.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.csproj.CopyComplete
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\refint\solidCleanarchitecture.Application.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\solidCleanarchitecture.Application.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Application\obj\Debug\net6.0\ref\solidCleanarchitecture.Application.dll

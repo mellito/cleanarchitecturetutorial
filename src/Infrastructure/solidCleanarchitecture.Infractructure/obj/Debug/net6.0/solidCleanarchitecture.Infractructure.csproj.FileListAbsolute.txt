@@ -1,0 +1,17 @@
+d:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Infractructure.deps.json
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Infractructure.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Infractructure.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Application.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Application.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.csproj.AssemblyReference.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.AssemblyInfoInputs.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.AssemblyInfo.cs
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.csproj.CoreCompileInputs.cache
+d:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.csproj.CopyComplete
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\refint\solidCleanarchitecture.Infractructure.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\solidCleanarchitecture.Infractructure.pdb
+d:\Estudio\udemy\solidcleanarchitecture\src\Infrastructure\solidCleanarchitecture.Infractructure\obj\Debug\net6.0\ref\solidCleanarchitecture.Infractructure.dll

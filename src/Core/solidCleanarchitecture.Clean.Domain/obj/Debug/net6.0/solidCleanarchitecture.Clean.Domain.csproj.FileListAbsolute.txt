@@ -1,0 +1,12 @@
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.csproj.AssemblyReference.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.AssemblyInfoInputs.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.AssemblyInfo.cs
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.csproj.CoreCompileInputs.cache
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.deps.json
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\bin\Debug\net6.0\solidCleanarchitecture.Clean.Domain.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\refint\solidCleanarchitecture.Clean.Domain.dll
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\solidCleanarchitecture.Clean.Domain.pdb
+D:\Estudio\udemy\solidcleanarchitecture\src\Core\solidCleanarchitecture.Clean.Domain\obj\Debug\net6.0\ref\solidCleanarchitecture.Clean.Domain.dll

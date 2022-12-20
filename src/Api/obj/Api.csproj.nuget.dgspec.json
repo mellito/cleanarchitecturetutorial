@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Api\\Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Api\\Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Api\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\MELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj"
+              },
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\solidCleanarchitecture.Infractructure.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\solidCleanarchitecture.Infractructure.csproj"
+              },
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\solidCleanarchitecture.Presistence.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\solidCleanarchitecture.Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj",
+        "projectName": "solidCleanarchitecture.Application",
+        "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\MELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\solidCleanarchitecture.Clean.Domain.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\solidCleanarchitecture.Clean.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\solidCleanarchitecture.Clean.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\solidCleanarchitecture.Clean.Domain.csproj",
+        "projectName": "solidCleanarchitecture.Clean.Domain",
+        "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\solidCleanarchitecture.Clean.Domain.csproj",
+        "packagesPath": "C:\\Users\\MELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Clean.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\solidCleanarchitecture.Infractructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\solidCleanarchitecture.Infractructure.csproj",
+        "projectName": "solidCleanarchitecture.Infractructure",
+        "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\solidCleanarchitecture.Infractructure.csproj",
+        "packagesPath": "C:\\Users\\MELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Infractructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\solidCleanarchitecture.Presistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\solidCleanarchitecture.Presistence.csproj",
+        "projectName": "solidCleanarchitecture.Presistence",
+        "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\solidCleanarchitecture.Presistence.csproj",
+        "packagesPath": "C:\\Users\\MELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Infrastructure\\solidCleanarchitecture.Presistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj": {
+                "projectPath": "D:\\Estudio\\udemy\\solidcleanarchitecture\\src\\Core\\solidCleanarchitecture.Application\\solidCleanarchitecture.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
